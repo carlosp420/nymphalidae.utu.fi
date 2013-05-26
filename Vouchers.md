@@ -1,0 +1,98 @@
+---
+layout: default
+---
+
+<div class="row-fluid">
+    <div class="span12">
+		<h1 class="myh1" align="center">The NSG Voucher Specimen Database</h1>
+        <div class="row-fluid">
+            <div class="span2">
+		        <img src="assets/img/db.png" alt="" align="left">
+            </div>
+            <div class="span8">
+			    <p>
+                <a href="http://nymphalidae.utu.fi/db.php">The NSG voucher specimen database</a>
+                has been created and is maintained by <a href="http://nymphalidae.utu.fi/cpena/">Carlos Peña</a>.
+                </p>
+
+			    <p>
+                It is based on an open source project <b>VoSeq</b> that was created and
+			    is being developed by <a href="http://nymphalidae.utu.fi/cpena/">Carlos Peña</a> 
+                and <a href="http://www.zoologi.su.se/about/staff/person.php?suuid=toma4097">Tobias Malm</a>.
+                </p>
+			
+			    <p>
+                <b>VoSeq</b> is a database to store voucher and DNA sequence data for phylogenetic analysis.
+                It's a unique database that enables to digitize biological data of museum specimens and molecular
+                data such as DNA sequences, primers and genes.
+                </p>
+
+			    <p> VoSeq has tools that facilitate the batch upload of lots of voucher data and DNA sequences with a few clicks. It also has <a href="http://en.wikipedia.org/wiki/BLAST">BLAST</a> capabilities, meaning that you can find out whether one particular DNA sequence is most similar to other sequence <a href="http://www.ncbi.nlm.nih.gov/genbank/">NCBI GenBank</a>. You can also BLAST your sequence against all others in your VoSeq database (see the <a href="http://nymphalidae.utu.fi/cpena/VoSeq_docu.html">Documentation</a> for more details). </p>
+
+			    <p>VoSeq is written mainly in <a href="http://www.php.net/">PHP</a>. It uses 
+                <a href="http://www.mysql.com">MySQL</a> as back-end and it is designed to run in a local server 
+                (for example by installing <a href="http://httpd.apache.org/">Apache</a> on your computer) or to
+                run on any commercial server service.</p>
+
+                <img src="assets/img/bug.png" alt="" /> Please send any bug complaints to 
+                <a href="http://nymphalidae.utu.fi/cpena/">Carlos Peña</a> or 
+                <a href="http://www.zoologi.su.se/about/staff/person.php?suuid=toma4097">Tobias Malm</a>.
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row-fluid">
+    <div class="span12">
+        <div class="row-fluid">
+            <div class="span4">
+            </div>
+        </div>
+        <div class="row-fluid">
+            <div class="span8 offset2">
+                <center>
+                    <a class="btn btn-large btn-primary" href="http://nymphalidae.utu.fi/db.php">Enter the database</a>
+                </center>
+
+                <br />
+                <p> VoSeq is an open source project and has been published here: </p>
+
+                <div class="well">
+	                <b>Peña, C. &amp; Malm, T.</b> 2012. VoSeq: a Voucher and DNA Sequence Web Application. <i>PLoS ONE</i>, 7(6): e39071. <a href="http://dx.doi.org/10.1371/journal.pone.0039071">doi:10.1371/journal.pone.0039071</a>
+                </div>
+
+                <ul>
+	                <li>The full documentation is here: <a href="http://nymphalidae.utu.fi/cpena/VoSeq_docu.html">http://nymphalidae.utu.fi/cpena/VoSeq_docu.html</a>.</li>
+	                <li>A test installation with sample data can be found here: <a href="http://nymphalidae.net/VoSeq">http://nymphalidae.net/VoSeq</a>.</li>
+	                <li>You can download the source code from here: <a href="https://github.com/carlosp420/VoSeq">https://github.com/carlosp420/VoSeq</a>.</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+<div class="row-fluid">
+    <div class="span12">
+        <table align="center" border="0">
+        <tbody>
+        <tr>
+        <td><img src="assets/img/s_placidina.jpg" alt="Placidina" width="107"></td>
+        <td><img src="assets/img/s_amathusia.jpg" alt="Amathusia" width="107"></td>
+        <td><img src="assets/img/s_amnosia.jpg" alt="Amnosia" width="107"></td>
+        <td><img src="assets/img/s_junonia.jpg" alt="Junonia" width="107"></td>
+        <td><img src="assets/img/s_brintesia.jpg" alt="Brintesia" width="107"></td>
+        <td><img src="assets/img/s_callicore.jpg" alt="Callicore" width="107"></td>
+        <td><img src="assets/img/s_morpho.jpg" alt="Morpho" width="107"></td>
+        <td><img src="assets/img/s_consul.jpg" alt="Consul" width="107"></td>
+        </tr>
+        </tbody>
+        </table>
+    </div>
+</div>
+
+

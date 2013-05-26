@@ -1,0 +1,77 @@
+---
+layout: default
+description: Diversification of Lepidoptera, hostplant-insect dynamics, Next Generation Sequencing
+---
+
+<center>
+<h3>Repeated patterns of diversification in Lepidoptera?</h3>
+<h4>Insights from Nymphalidae evolutionary history on the diversification of phytophagous insects</h4>
+</center>
+
+<div class="row-fluid">
+    <div class="span10">
+        <img src="assets/img/Vaitoskansi.gif" alt="Systematics of Nymphalidae" width="50%" align="right" style="padding: 10px"/>
+
+        <p>
+        Welcome to the home page of the Nymphalidae Systematics Group 
+        at the <a href="http://www.sci.utu.fi/biologia/genfys.html" target="_blank">Laboratory of Genetics</a>,
+        University of Turku. The group is headed by <a href="Wahlberg.htm">Niklas Wahlberg</a>
+        and our major goal is to contribute to the understanding of evolutionary processes that
+        are involved in diversification of species. Our model group has for long been the family
+        Nymphalidae, which has been of exceptional utility in developing both 
+        <a href="Nymphalidae/Molecular.htm">practical laboratory methods</a> as well as insights
+        into the processes leading to diversification. Our results have shown that the butterflies
+        are older than previously thought and that there have been several periods during the 
+        history of the Earth that have strongly affected the diversification of Nymphalidae, such 
+        as <a href="Wahlbergetal2009.pdf">the Cretaceous-Paleogene mass extinction event</a> and 
+        <a href="PenaWahlberg2008.pdf">the drying up of the planet during the Oligocene</a>.
+        </p>
+
+        <p>
+        These results, along with results suggesting that similar patterns are found in the other
+        butterfly families, have prompted us to expand our studies to other families of Lepidoptera.
+        In particular we have been working on the noctuoid complex of families and Geometridae, 
+        but are also working in collaboration on other families. We have been able to utilize 
+        <a href="Nymphalidae/Molecular.htm">the primers</a> developed for Nymphalidae across all of
+        Lepidoptera, which allows us to rapidly generate large datasets for analysis. We are also 
+        currently developing new methods that take advantage of Next Generation Sequencing 
+        technologies, that allow us to generate much larger datasets than earlier. We thus intend to
+        test new and exciting hypotheses about the factors driving diversification in Lepidoptera,
+        from the comparatively species poor nonditrysians to the large megadiverse families of Ditrysia.
+        </p>
+
+        <p>
+        We continue to work on Nymphalidae, especially in collaboration with 
+        other researchers focussing on particular subgroups within the family.
+        Our <a href="Vouchers.htm">database</a> now has multiple gene sequences 
+        for about 2000 species of Nymphalidae (up to 11 gene regions per species),
+        making it possible to study the details of diversification processes in 
+        almost any taxon of the family. We are particularly interested in the 
+        subfamily Satyrinae, as it is the most species-rich subfamily of Nymphalidae
+        and shows intriguing patterns of diversification. It has also proven to be a
+        challenging subfamily to study, with problems ranging from species 
+        definitions to methodological problems associated with potential rapid radiations.
+        </p>
+
+        <p>
+        The NSG uses mainly <a href="Nymphalidae/Molecular.htm">molecular methods</a>
+        in its work. In order to document our sources of DNA, we have a policy of putting
+        up images of our voucher specimens (when available) on the internet. To access
+        these images follow the <a href="Vouchers.htm">Voucher database</a> link above.
+        We also aim to link our voucher images with their respective DNA sequences on 
+        public databases through 
+        <a href="http://www.ncbi.nlm.nih.gov/entrez/linkout/index.html" target="_blank">GenBank's LinkOut</a> service.
+        </p> 
+ 
+        <p>
+        Our work is highly collaborative and we collaborate with many people around 
+        the world. Our work is not restricted to Lepidoptera, we work also on other insect
+        orders, viruses, plants, and even the evolutionary history of languages. We 
+        continue to explore other systems that help us understand how evolution has shaped
+        the world we live in.
+        </p>
+    </div>
+</div>
+
+
+

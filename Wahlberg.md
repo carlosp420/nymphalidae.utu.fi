@@ -1,0 +1,128 @@
+---
+layout: default
+---
+
+<div class="row-fluid">
+    <div class="span3">
+        <h3>
+        Niklas Wahlberg
+        </h3>
+        <h4>
+	        Laboratory of Genetics<br />
+	        Department of Biology<br />
+	        University of Turku<br />
+	        20014 Turku <br />
+	        Finland<br />
+        </h4>
+        <br />
+        Phone +358 2 333 5569<br />
+        Fax +358 2 333 6680<br />
+        E-mail:<b> 
+
+        <script language="JavaScript" type="text/JavaScript">
+        <!--
+        var linktext = "niklas.wahlberg&#64;utu.fi";
+        var email1 = "niklas.wahlberg";
+        var email2 = "utu.fi";
+        document.write ("<a href=" + "mail" + "to:" + email1 + "%40" + email2 + ">" + linktext + "<" + "/a>")
+        //-->
+        </script>
+</b>
+    </div>
+    <div class="span7">
+        <img class="img-polaroid" src="http://nymphalidae.utu.fi/NWnola.jpg" alt="photo by Phil DeVries" align="right" />
+        <p align="right">Niklas in New Orleans, photo by Phil DeVries</p>
+    </div>
+</div>
+
+
+<div class="row-fluid">
+    <div class="span10">
+        <p><span itemprop="description">I am currently a <span itemprop="jobTitle">University Researcher at the <a href="http://www.sci.utu.fi/biologia/genfys.html" target="_blank">Laboratory of Genetics, Department of Biology</a>, University of Turku</span>. My main area of research is the systematics and evolution of the butterfly family Nymphalidae.</span> Projects I am involved in:</p> 
+
+        <h4>Evolutionary history of Nymphalidae</h4>
+
+        <blockquote>
+        I have been working on the evolutionary history of Nymphalidae since 1998, and this butterfly family continues to hold my fascination. We are uncovering interesting patterns of diversification and are finding plausible reasons behind the differences in diversity of the various groups within Nymphalidae. This work is very reliant on a large number of collaborators, and on going projects can be seen on the <a href="res.htm">Research</a>-page.
+        </blockquote>
+
+
+        <h4>Factors affecting diversification in Lepidoptera</h4>
+
+        <blockquote>
+        Our results on the family Nymphalidae suggest that major climatic changes over geological time scales have had a major impact on the diversification of these butterflies. This begs the question of whether such effects can be seen in other groups of Lepidoptera. I have expanded my research to include other groups of Lepidoptera, such as Noctuoidea (with Reza Zahiri) and Geometridae (with Toomas Tammaru). In addition, in collaboration with Tommi Nyman, we have received funding from the Kone Foundation to look at factors affecting diversification rates over millions of years in Lepidoptera and Hymenoptera (sawflies in particular). Carlos Pe&ntilde;a is a postdoc working on this project.
+        </blockquote>
+
+        <h4>Using biological methods to study the evolution of the Finno-Ugric language group</h4>
+
+        <blockquote>
+        In addition to my work on Lepidoptera, I am involved in a project using biological methods to study the evolution of languages, in particular the Finno-Ugric languages. Our project, <a href="http://kielievoluutio.uta.fi" target="_blank">BEDLAN</a>, is a multidiscipline, multiuniversity collaboration aiming to bring novel interpretations of the evolution and development of our fascinating language, which is so different to the majority of the European languages. At the University of Turku, I am working with Outi Vesakoski on this project and we are supervising the PhD studies of Terhi Honkola together.
+        </blockquote>
+
+        <h4>Tropical Ichneumonidae diversity</h4>
+
+        <blockquote>
+        The diversity of parasitoid wasps in the family Ichneumonidae was thought to be low in the Amazon region, contrary to most other groups of organisms. The work of <a href="http://vanha.sci.utu.fi/biologia/elainmuseo/saaksjarvi_eng.htm" target="_blank">Ilari S&auml;&auml;ksj&auml;rvi</a> has changed this perspective, as he has discovered that there are large numbers of undescribed ichneumonid species in the rainforest canopy. In collaboration with him, I am co-supervising the PhD thesis of Anu Veijalainen, which aims to use DNA-barcoding methods to quickly sort through large numbers of specimens to find distinct haplotype groups that can then be investigated in more detail to see whether they represent new undescribed species.
+        </blockquote>
+
+        <h4>Trichoptera of Finland</h4>
+
+        <blockquote>
+        There are 216 species of Trichoptera known from Finland. Some of these species are morphologically difficult to identify and their taxonomic status is questioned. In collaboration with Juha Salokannel, we are looking at whether DNA barcoding can help us define and identify species in Finland.
+        </blockquote>
+        
+        <h4>Evaluating the diet of Daubenton's Bat using DNA barcoding</h4>
+
+        <blockquote>
+        The diet of insectivorous bats is not well known. As part of Eero Vesterinen's PhD thesis, co-supervised by myself and in collaboration with <a href="http://vanha.sci.utu.fi/biologia/ekologia/norrdahl_eng.htm" target="_blank">Kai Norrdahl</a> and <a href="http://vanha.sci.utu.fi/biologia/elainmuseo/saaksjarvi_eng.htm" target="_blank">Ilari S&auml;&auml;ksj&auml;rvi</a>, we are looking at the diet of Daubenton's Bat by sampling all the flying insects in the habitats that the bat occurs in and DNA barcoding them. In addition we are taking fecal samples from the bats themselves and using ancient DNA techniques to extract and sequence DNA of their prey items, in order to identify and quantify the insects in their diet.
+        </blockquote>
+
+        <h4>Evolution of viruses</h4>
+        <blockquote>
+        Molecular phylogenetic methods can be applied also to study the evolution of viruses. In collaboration with Lihong Liu, I have been working on the evolution of pestiviruses and hepatitis E viruses.
+        </blockquote>
+
+
+
+<h3>Brief CV</h3>
+<ul>
+<li>2011-2015 University Researcher, University of Turku</li>
+<li>2006-2011 Academy Research Fellow (funded by Academy of Finland), University of Turku</li>
+<li>2003-2006 Forskarassistent (Research Fellow, funded by Vetenskapsr&aring;det), Stockholm University</li>
+<li>2001-2002 Postdoc Stockholm University (funded by Academy of Finland), working with S&ouml;ren Nylin</li>
+<li>1996-2000 PhD University of Helsinki, supervised by Ilkka Hanski, <a href="http://ethesis.helsinki.fi/julkaisut/mat/ekolo/vk/wahlberg/" target="_blank">The ecology and evolution of melitaeine butterflies.</a></li>
+<li>1991-1996 MSc studies at the University of Helsinki</li>
+</ul>
+
+<h3>Links:</h3>
+
+<ul>
+    <li><a href="Wahlb_publi.htm">My publications</a></li>
+    <li>Webmaster of:
+        <ul>
+            <li><a href="http://nymphalidae.utu.fi/">Nymphalidae Systematics Group</a></li>
+            <li><a href="http://www.nymphalidae.net/">Nymphalidae.net</a></li>
+            <li><a href="http://www.lepsys.eu/">LEPSYS.eu</a></li>
+        </ul>
+    </li>
+</ul>
+
+    </div>
+</div>
+
+<hr>
+
+<div class="row-fluid">
+    <div class="span10 pagination-centered">
+        <h3>Nymphalidae.net</h3>
+        <img class="img-polaroid" src="assets/img/aurinia.jpg" alt="aurinia" usemap="#aurinia" border="0" />
+        <map name="aurinia">
+            <area shape="rect" coords="1,1,700,305" href="http://www.nymphalidae.net/" alt="Find out about Nymphalidae, click here!" target="_blank" />
+        </map>
+        <p>Click the image of <i>Euphydryas aurinia</i> to enter the Nymphalidae pages</p>
+    </div>
+</div>
+
+
+
+

@@ -1,0 +1,7 @@
+source: .
+destination: ./_site
+markdown_ext: md
+author: 
+    name: NSG
+
+title: The Nymphalidae Systematics Group

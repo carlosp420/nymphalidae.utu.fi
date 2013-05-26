@@ -1,0 +1,45 @@
+---
+layout: default
+title: 
+---
+
+<center>
+<p><img src="assets/img/NSG_logo.png" alt="Systematics of Nymphalidae" width="50%"></p>
+
+<p>The Nymphalidae Systematics Group studies the phylogenetic relationships of taxa in the butterfly family Nymphalidae, using mainly molecular 
+methods. We are interested in where, when and how the major groups of nymphalids have diverged from each other.</p> 
+
+<h4>The Nymphalidae Systematics Group is organizing the <a href="http://nymphalidae.utu.fi/icbb2014/index.html" target="blank_">7th International Conference on the Biology of Butterflies</a>! The conference will be held in Turku, Finland in August 2014, check back regularly for updates.</h4>
+
+
+</center>
+
+<hr>
+<p><i>Contact information:</i></p>
+<table border="0" width="100%">
+	<tr>
+		<td width="45%">
+			Niklas Wahlberg<br />
+			Laboratory of Genetics<br />
+			Department of Biology<br />
+			University of Turku<br />
+			20014 Turku<br />
+			Finland<br />
+			<br />
+			Phone +358 2 333 5569<br />
+			Fax +358 2 333 6680<br />
+			<b>E-mail:</b> <script language="JavaScript" type="text/JavaScript">
+			<!--
+			var linktext = "niklas.wahlberg&#64;utu.fi";
+			var email1 = "niklas.wahlberg";
+			var email2 = "utu.fi";
+			document.write ("<a href=" + "mail" + "to:" + email1 + "%40" + email2 + ">" + linktext + "<" + "/a>")
+			//-->
+			</script>
+		</td>
+		<td valign="top">
+			<a href="http://www4.clustrmaps.com/counter/maps.php?url=http://nymphalidae.utu.fi/" id="clustrMapsLink"><img src="http://www4.clustrmaps.com/counter/index2.php?url=http://nymphalidae.utu.fi/" style="border:0px;" alt="Locations of visitors to this page" title="Locations of visitors to this page" id="clustrMapsImg" onError="this.onError=null; this.src='http://www2.clustrmaps.com/images/clustrmaps-back-soon.jpg'; document.getElementById('clustrMapsLink').href='http://www2.clustrmaps.com'" />
+</a>
+		</td>
+	</tr>
+</table>
