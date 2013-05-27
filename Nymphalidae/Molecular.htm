@@ -1,0 +1,178 @@
+---
+layout: default
+dots: ../
+---
+
+<h1 align=center>Molecular methods</h1>
+<p>We have extracted DNA from a large number of specimens and have had varying success with specimens in varying conditions. Our advise is frequently sought on this matter and thus our experiences are recorded here.</p>
+
+<h2>Collecting specimens in the field for molecular work</h2>
+
+<p>Most of our specimens come to us as dry specimens collected by helpful people around the world (to whom we are extremely grateful!). We have found that dried specimens give excellent quality DNA for both mitochondrial and nuclear DNA for sequences up to 1000 bp long (we have not tried longer sequences in one PCR run), especially when they are less than a year old. Our advice to collectors is as follows: 
+
+<ul>
+<li>Once the specimen has been collected and killed (can be pinch killed, frozen, poisoned with cyanide or ether, whatever the collector prefers), it should left to dry out in an open place (for instance, on an open book shelf) for about a week. If the specimens are collected in the tropics, it is advisable to place them in a jar with silica gel to enhance quick drying.</li>
+<li>Alternatively, if 90-100% alcohol is available, two legs of the specimen can be placed in a vial with the alcohol, while the remainder of the specimen is papered as a voucher (with careful notes as to which legs belong to which specimens)</li>
+<li>Once the specimen is dry, it can be sent by regular airmail to the molecular lab, preferably in a box (otherwise the specimen arrives pulverized).</li>
+<li>If the collector cannot or does not want to send the specimen(s) immediately, they should be stored either in a freezer or in a jar with silica gel.</li>
+<li>Once the specimen(s) arrive at the molecular lab, they can be processed immediately, or be placed in an ultrafreezer (-80&deg;C) until processed.</li>
+</ul>
+
+<h2>Processing the specimens in the lab</h2>
+
+<p>We usually extract DNA from <b>only two legs</b> of each butterfly specimen. Previously we have extracted DNA using a standard phenol/chloroform extraction protocol. For details please see the article by <a href="../publi.htm">Zimmermann, Wahlberg and Descimon (2000)</a>. Currently we are extracting DNA using QIAgen's DNEasy extraction kit, with excellent results. We elute the extracted DNA into 200 &micro;l of buffer, unless the specimen is dry, small <b>and</b> old, in which case we elute the extracted DNA into 50 &micro;l of buffer.</p>
+
+<p>Using the above protocols, we have been able to get sequencable DNA from both the mitochondrial and nuclear genomes from dried specimens up to 15 years old. Our experience is that <b>dried</b> specimens less than a year old give DNA that is just as good as from fresh specimens, specimens between 1 and 3 years old can give excellent quality DNA, but sometimes have degraded a bit, specimens more than 3 years old are more hit-and-miss, with the quality of DNA extracted being strongly dependent on how the specimens have been stored over the years. A general rule of thumb is that the drier the better. Any moisture will allow bacteria and fungi to start eating the DNA (and anything else organic). This is why specimens that have been relaxed do not generally work very well. We have been able to get sequencable DNA from relaxed specimens, though it is usually a bit degraded. In these cases, it is probable that the collector has an immaculate and sterile relaxing container!</p>
+
+<h2>PCR Protocols and primers used</h2>
+
+<p>The NSG routinely sequences up to 11 genes (1 mitochondrial and 10 nuclear), as recently described by <a href="../publi.htm">Wahlberg and Wheat (2008)</a>. In order to facilitate high throughput PCR and sequencing, either a universal Forward or Reverse primer is attached to each degenerate primer (F or R, respectively). These nondegenerate, nonhomologous 5' tails are then used to sequence all PCR products regardless of which genes have been PCRed, sidestepping traditional gene specific sequencing primer design and/or cloning of PCR products followed by sequencing. A similar hybrid primer design has been also implemented by other labs (e.g. the <a href="http://www.leptree.net/molecular_protocols" target="_blank">Regier lab</a>) to increase yield and facilitate sequencing. We recommend that this protocol is used for the primers for the nuclear gene regions, as most are highly degenerate and yields are much higher with the hybrid design.</p>
+
+<h3>Universal primer tails (used for sequencing)</h3>
+
+T7Promoter(F) 5' TAA TAC GAC TCA CTA TAG GG 3'<br>
+T3(R) 5' ATT AAC CCT CAC TAA AG 3'<br>
+</p>
+
+<p>The following primers have the universal primers (in <b>bold</b>) attached to them:<br>
+<h3>Arginine Kinase</h3>
+
+ArginineF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>T nAC yGA rkC CCA rTA yAA G 3'<br>
+ArginineR 5' <b>ATT AAC CCT CAC TAA AG</b>T TGA TsA GyT CrG CGA TG 3'<br>
+
+<h3>CAD</h3>
+
+CAD743nF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G GNG TNA CNA CNG CNT GYT TYG ARC C 3'<br>
+CAD1028R 5' <b>ATT AAC CCT CAC TAA AG</b>T TRT TNG GNA RYT GNC CNC CCA T 3'<br>
+CADmidF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>k gga tty tcn gay aaa caa atn gc 3'<br>
+CADmidR 5' <b>ATT AAC CCT CAC TAA AG</b>c att cwg ckg cwa ctg tat c 3'<br>
+
+<p>Best done in two pieces using CAD743nF/CADmidR and CADmidF/CAD1028R, each giving ca 450 bp. The full sequence is 850 bp.</p>
+
+<h3>COI</h3>
+
+Done in two pieces, first half:<br>
+HybLCO 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G GTC AAC AAA TCA TAA AGA TAT TGG 3'<br>
+HybHCO 5' <b>ATT AAC CCT CAC TAA AG</b>T AAA CTT CAG GGT GAC CAA AAA ATC A 3'<br>
+second half:<br>
+HybJerry 5' <b>TAA TAC GAC TCA CTA TAG GG</b>C AAC AYT TAT TTT GAT TTT TTG G 3'<br>
+HybPat 5' <b>ATT AAC CCT CAC TAA AG</b>A TCC ATT ACA TAT AAT CTG CCA TA 3'<br>
+
+<h3>DDC</h3>
+
+DDC3.2sF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>T GGY TIC AYG TIG AYG CNG CNT AYG C 3'<br>
+DDCdegR3 5' <b>ATT AAC CCT CAC TAA AG</b>C CCA TnG TnA CYT CyT C 3'<br>
+
+
+<h3>EF-1&alpha;</h3>
+Done in two pieces, first half:<br>
+HybStarsky 5' <b>TAA TAC GAC TCA CTA TAG GG</b>C ACA TYA ACA TTG TCG TSA TYG G 3'<br>
+HybMonicaR 5' <b>ATT AAC CCT CAC TAA AG</b>C ATR TTG TCK CCG TGC CAr CC 3'<br>
+second half:<br>
+HybAlF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G AGG AAA TYA ARA ArG AAG 3'<br>
+HybEFrcM4 5' <b>ATT AAC CCT CAC TAA AG</b>A CAG CVA CKG TYT GYC TCA TRT C 3'<br>
+
+<p>Occassionally needs to be done in three pieces, Starsky/Luke, Cho/Verdi and EF51.9/EFrcM4<br>
+
+HybLuke 5' <b>ATT AAC CCT CAC TAA AG</b>C ATR TTG TCK CCG TGC CAK CC 3'<br>
+HybCho 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G TCA CCA TCA TYG ACG C 3'<br>
+HybVerdi 5' <b>ATT AAC CCT CAC TAA AG</b>G ACA CCA GTT TCI ACT CTG CC 3'<br>
+HybEF51.9 5' <b>TAA TAC GAC TCA CTA TAG GG</b>C ARG ACG TAT ACA AAA TCG G 3'<br>
+</p>
+<h3>GAPDH</h3>
+
+HybFrigga 5' <b>TAA TAC GAC TCA CTA TAG GG</b>a arg ctg grg ctg aat atg t 3'<br>
+HybBurre 5' <b>ATT AAC CCT CAC TAA AG</b>g wtt gaa tgt act tga tra grt c 3'<br>
+
+<h3>MDH</h3>
+The most successful combination has been:<br>
+HybMDHF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G AYA TNG CNC CNA TGA TGG GNG T 3'<br>
+MDHmidR 5' <b>ATT AAC CCT CAC TAA AG</b>a ayt gng trg atg art grt tnc c 3'<br>
+
+<p>For the full product use HybMDHF/HybMDHR, or above two and the two below for degraded DNA<br>
+MDHmidF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>g cnc cnt cwa tnc cna aag a 3'<br>
+HybMDHR 5' <b>ATT AAC CCT CAC TAA AG</b>A GNC CYT CNA CDA TYT TCC AYT T 3'<br>
+</p>
+<h3>IDH</h3>
+
+IDHdeg27F 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G GWG AYG ARA TGA CNA GRA THA THT GG 3'<br>
+IDHdegR 5' <b>ATT AAC CCT CAC TAA AG</b>T TYT TRC AIG CCC ANA CRA ANC CNC C 3'<br>
+
+<h3>RpS2</h3>
+
+RpS2_nF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>A TCw CGy GGT GGy GAT AGA G 3'<br>
+RpS2_nR 5' <b>ATT AAC CCT CAC TAA AG</b>A TGr GGC TTk CCr ATC TTG T 3'<br>
+
+<h3>RpS5</h3>
+
+HybrpS5degF 5' <b>TAA TAC GAC TCA CTA TAG GG</b>a tgg cng arg ara ayt gga ayg a 3'<br>
+HybrpS5degR 5' <b>ATT AAC CCT CAC TAA AG</b>c ggt trg ayt trg caa cac g 3'<br>
+
+<h3>Wingless</h3>
+
+HybLepWG1 5' <b>TAA TAC GAC TCA CTA TAG GG</b>G ART GYA ART GYC AYG GYA TGT CTG G 3'<br>
+HybLepWG2 5' <b>ATT AAC CCT CAC TAA AG</b>A CTI CGC ARC ACC ART GGA ATG TRC A 3'<br>
+
+<h3>dNTPs:</h3>
+We use dNTPs from Fermentas in a concentration of 10mM. We make  aliquots of the stock dNTP solution into small microcentrifuge tubes filled with, around, 100 &micro;l of dNTPs. 
+We do not reduce the concentration of the dNTPs (i.e. by adding water). The aliquots are stored in the freezer until needed for the PCR reactions.
+
+<p>Our PCRs are always in a volume of 20 &micro;l. Our recipe for each PCR reaction looks like this:</p>
+
+<div class="row-fluid">
+    <div class="span4">
+        <table class="table table-striped table-bordered table-hover">
+            <tbody>
+                <tr><th>Reagent</th> <th>Volume</th></tr>
+                <tr><td>dH2O</td> <td>12.5 &micro;l</td></tr>
+                <tr><td>10x buffer</td> <td>2.0 &micro;l</td></tr>
+                <tr><td>MgCl2</td> <td>2.0 &micro;l</td></tr>
+                <tr><td>Primer 1</td> <td>1.0 &micro;l</td></tr>
+                <tr><td>Primer 2</td> <td>1.0 &micro;l</td></tr>
+                <tr><td>dNTP</td> <td>0.4 &micro;l</td></tr>
+                <tr><td>AmpliTaq Gold polymerase</td> <td>0.1 &micro;l</td></tr>
+                <tr><td>DNA extract</td> <td>1.0 &micro;l</td></tr>
+                <tr><td>For a total of</td> <td>20.0 &micro;l</td></tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+<p><b>PCR cycling profile for COI, wingless and EF-1&alpha; primer pairs Al/EFrcM4, Cho/Verdi and EF51.9/EFrcM4:</b></p>
+<ul>
+<li>95&deg;C for 5 min</li> 
+<li>40 cycles of:</li> 
+<ul>
+<li>94&deg;C for 30 sec</li>
+<li>50&deg;C for 30 sec</li>
+<li>72&deg;C for 1 min 30 sec</li>
+</ul>
+<li>A final extension period of 72&deg;C for 10 min.
+</ul>
+
+<p><b>PCR cycling profile for all other primer pairs:</b></p>
+<ul>
+<li>95&deg;C for 5 min</li> 
+<li>40 cycles of:</li> 
+<ul>
+<li>94&deg;C for 30 sec</li>
+<li>55&deg;C for 30 sec</li>
+<li>72&deg;C for 1 min 30 sec</li>
+</ul>
+<li>A final extension period of 72&deg;C for 10 min.
+</ul>
+
+
+<h2>Sequencing</h2>
+<p>As mentioned above, we use the universal primers for our sequencing reactions. These work very well for both the Beckman-Coulter and the ABI machines that we have tested them on. Also, the universal primers given above are likely to be available free of charge from commercial sequencing companies, saving you the hassle of sending primers along with PCR products. We highly recommend the use of the hybrid primer design!</p>
+
+<h2>Degraded material</h2>
+<p>Occassionally we have very old or otherwise degraded samples of important specimens that rarely amplify with any of the primer pairs above. We have been experimenting with primer pairs that give shorter PCR products for COI and have had good success. We have not yet tried working on the nuclear genes. For COI, we are able to get the entire 1450 bp using 4 primer pairs: LCO/K699, Ron/Nancy, Jerry/Mila and Brian/Pat. Each of these amplifies about 350 bp and they seem to work well with samples that give absolutely nothing with the primers described above. We use the same PCR cycling profile described above for COI.</p>
+<p> Note these primers do not have the universal tail attached to them!</p>
+<ul>
+K699 5' WGG GGG GTA AAC TGT TCA TCC 3'<br />
+Ron 5' GGA GCY CCW GAT ATA GCT TTC CC 3'<br />
+Nancy 5' CCT GGT AAA ATT AAA ATA TAA ACT TC 3'<br />
+Brian 5' CTT CTA TAT TAT GAA GAT TAG G 3'<br />
+Mila 5' ATT AAT CCT GTA AAT AAW GG 3'<br />
+</ul>
