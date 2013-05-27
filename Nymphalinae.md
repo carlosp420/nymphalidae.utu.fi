@@ -40,7 +40,7 @@ layout: default
 <h3><a href="Nymphcheck.htm">Checklist of species in Nymphalinae</a></h3>
 
 
-<h4>Key publications for Nymphalinae systematics:</h4></p>
+<h4>Key publications for Nymphalinae systematics:</h4>
 
 <ol>
 <li><b>Achtelik, G. 1999:</b> Vier neue arten aus der "<i>Melitaea sultanensis</i>-gruppe" (Staudinger, 1886) (Lepidoptera, Nymphalidae). - Atalanta 30: 63-86.</li>
