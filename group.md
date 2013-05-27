@@ -23,10 +23,6 @@ layout: default
     <ul>
     <li>Postdoc at the Laboratory of Genetics, Department of Biology, University of Turku working on rates of diversification in Hymenoptera, as well as continuing to develop the NSG Voucher Database</li>
     </ul>
-<li>Anu Veijalainen</li>
-   <ul>
-   <li>Postgraduate student at the Department of Biology, University of Turku working on the diversity of ichneumonid wasps in the Amazon region</li>
-   </ul>
 <li>Terhi Honkola</li>
    <ul>
    <li>Postgraduate student at the Department of Biology, University of Turku working on the evolution of the Finno-Ugric languages</li>
@@ -67,7 +63,7 @@ layout: default
    </ul>
 <li><a href="http://www.vanasiri.in/" target="_blank">Ullasa Kodandaramaiah</a></li>
     <ul>
-    <li>PhD completed in October 2009 at the Department of Zoology, Stockholm University, currently a postdoc at Cambridge University</li>
+    <li>PhD completed in October 2009 at the Department of Zoology, Stockholm University, currently an assistant professor at the Indian Institute of Science Education and Research Thiruvananthapuram (IISER-TVM)</li>
     </ul>
 <li><a href="http://users.utu.fi/rezzah/index.html" target="_blank">Reza Zahiri</a></li>
     <ul>
@@ -76,6 +72,10 @@ layout: default
 <li><a href="http://nymphalidae.utu.fi/pavel/" target="_blank">Pavel Matos-Maravi</a></li>
    <ul>
    <li>Undergraduate student at the Laboratory of Genetics, Department of Biology, University of Turku who worked on the temporal framework of speciation in Satyrinae, currently doing a PhD at the University of South Bohemia, Czech Republic with Milan Janda</li>
+   </ul>
+<li>Anu Veijalainen</li>
+   <ul>
+   <li>PhD completed at the Department of Biology, University of Turku working on the diversity of ichneumonid wasps in the Amazon region</li>
    </ul>
 </ul>
             </div>
